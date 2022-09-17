@@ -1,0 +1,52 @@
+#dropdown-link-navi {
+    color: #f3eaea;
+    font-size: 17px;
+}
+
+.header-fix {
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+    height: 65px;
+    line-height: 45px;
+    background-color: black;
+}
+
+.header-menu {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: black !important;
+    font-size: 17px;
+}
+
+.ant-menu-item {
+    color: white !important;
+}
+
+#header-item-right{
+    color: white;
+    float: right;
+}
+
+#header-item-right-is-login{
+    color: white;
+    float: right;
+    background-color: black;
+}
+
+#components-layout-demo-top-side-2 .logo {
+    float: left;
+    width: 80px;
+    height: 32px;
+    margin: 16px 52px 16px 0;
+    border-radius: 10px;
+}
+
+.ant-menu-item:hover {
+    background-color: #1890ff;
+}
+
+#switch {
+    background-color: black;
+    float: right;
+}
